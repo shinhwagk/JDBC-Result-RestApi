@@ -18,4 +18,4 @@ libraryDependencies ++= Seq(
 )
 
 mainClass in assembly := Some("org.shinhwagk.Bootstrap")
-assemblyOutputPath in assembly := baseDirectory.value / "OracleStackObjectDetail-Back.jar"
+assemblyOutputPath in assembly := baseDirectory.value / "OracleStackQuery.jar"

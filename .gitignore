@@ -1,5 +1,5 @@
-.idea
-project/target
-project/project
-target
-OracleStackObjectDetail-Back.jar
+/.idea
+/project/target
+/project/project
+/target
+OracleStackQuery.jar
